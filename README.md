@@ -1,3 +1,9 @@
+## Installs libraries
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Classifier Resources
 
 | Stars Types       | Main Type | Class |
