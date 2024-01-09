@@ -1,3 +1,5 @@
+## Gaia Star Spectra Classifier (GSSC)
+
 ## Installs libraries
 
 ```bash
